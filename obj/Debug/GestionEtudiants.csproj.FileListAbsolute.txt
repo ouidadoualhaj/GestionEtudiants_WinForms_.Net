@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\GestionEtudiants\bin\Debug\GestionEtudiants.exe.config
+C:\Users\hp\source\repos\GestionEtudiants\bin\Debug\GestionEtudiants.exe
+C:\Users\hp\source\repos\GestionEtudiants\bin\Debug\GestionEtudiants.pdb
+C:\Users\hp\source\repos\GestionEtudiants\obj\Debug\GestionEtudiants.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\GestionEtudiants\obj\Debug\GestionEtudiants.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\GestionEtudiants\obj\Debug\GestionEtudiants.Properties.Resources.resources
+C:\Users\hp\source\repos\GestionEtudiants\obj\Debug\GestionEtudiants.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\GestionEtudiants\obj\Debug\GestionEtudiants.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GestionEtudiants\obj\Debug\GestionEtudiants.exe
+C:\Users\hp\source\repos\GestionEtudiants\obj\Debug\GestionEtudiants.pdb
+C:\Users\hp\source\repos\GestionEtudiants\obj\Debug\GestionEtudiants.Etudiants.resources
+C:\Users\hp\source\repos\GestionEtudiants\obj\Debug\GestionEtudiants.CRUD_Etudiants_List.resources
